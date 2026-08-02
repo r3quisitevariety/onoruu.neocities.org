@@ -12,8 +12,7 @@ Here's a list of topics that interest me, which you'll probably see me writing a
 - software 
 - internet & technology
 - artistry & creativity
-- epistemology, perspective, inner workings of the mind
-- stories, poetry
+- stories, poetry, writing
 - systems thinking
 
 I daily drive NixOS and I'm knee-deep into the ecosystem; it's one of my goals to master nix.
