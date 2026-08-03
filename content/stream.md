@@ -32,25 +32,6 @@ a chronological stream of quotes, excerpts, or snippets that have proved to be p
 ### July 20, 2026, 1:12 PM
 > [this](https://www.youtube.com/watch?v=nCiJ8MMQCxM) is probably my favorite song from night tapes. 
 
-### July 19, 2026, 8:57 PM
-> Wind extinguishes a candle and energizes fire.\
-> Likewise with randomness, uncertainty, chaos: you want to use them, not hide from them.\
-> You want to be the fire and wish for the wind.
-> 
-> This summarizes this author's nonmeek attitude to randomness and uncertainty.
->
-> We don't want to just survive uncertainty, to just about make it.\
-> We want to survive uncertainty and, in addition—like a certain class of aggressive Roman Stoics—have the last word. The mission is how to domesticate, even dominate, even conquer, the unseen, the opaque, and the inexplicable.
->
->How?
->
-> *— Nassim Nicholas Taleb, 'Antifragile'*
-
-### July 19, 2026, 8:34 PM
-> "Fresh Static Snow to me, is about this idea that I was really obsessed with my loneliness. About this idea that there necessarily exists a best, romantic partner for every person in the world, somewhere out there. There are billions of people out there and you will only meet a fraction of them, and to me the likelihood that you’ll ever meet a person that will make you that happy is infinitesimal. There’s a very small chance. If you really consider the idea that, that person is out there, exists and is walking, eating their breakfast cereal, looking all cute. And the notion that you will never know each other, made me really sad. And this song was me dedicating something to whoever that person is. Maybe they’ll hear it, how fucking cool will that be?"
->
-> *— Porter Robinson*
-
 ### July 11, 2026, 11:58 PM
 
 >"I think having your own room should be a human right. I didn’t have my own room until I was 16 & once I had one, I became more productive creatively. not only could I just be with myself, but I could project my inner world to my outer world in an immediate way. to play/practice music in your room – what a dream.
@@ -66,53 +47,3 @@ a chronological stream of quotes, excerpts, or snippets that have proved to be p
 >so if anyone shy here is pondering, if to go on an adventure. I really recommend it."
 >
 >*— Iiris Vesik, lead singer of 'Night Tapes'*
-
-### July 10, 2026, 9:53 PM
->Out beyond ideas of wrongdoing and rightdoing, \
->there is a field. I'll meet you there. \
->When the soul lies down in that grass, \
->the world is too full to talk about. \
->Ideas, language, even the phrase each other \
->doesn't make any sense.
->
->*— Rumi*
-
-### July 7, 2026, ?:?? PM 
->The wise are not conspicuous in their actions \
->Or given to much talking. \
->When troubles arise, \
->they are not irritated.
->
->They produce, but do not hoard; \
->They act, but expect no praise; \
->They build, but do not dwell therein. 
->
->And because they do not dwell therein, \
->They never depart.
->
->*— Lao Tzu, 'Tao te Ching'*
-
-### July 6, 2026, ?:?? PM
->Keep walking, though there’s no place to get to. \
->Don’t try to see through the distances. \
->That’s not for human beings. 
->
->Move within, but don’t move the way fear makes you move. 
->
->Today, like every other day, we wake up empty and frightened. \
->Don’t open the door to the study and begin reading. \
->Take down a musical instrument. \
->Let the beauty of what you love be what you do. 
->
->There are hundreds of ways to kneel and kiss the ground.
->
->*— Rumi*
-
-### July 4, 2026, ?:?? PM
->"Whenever you go out-of-doors, draw the chin in, carry the crown of the head high, and fill the lungs to the utmost; drink in the sunshine; greet your friends with a smile, and put soul into every handclasp. Do not fear being misunderstood, and do not waste a minute thinking about your enemies. Try to fix firmly in your mind what you would like to do, and then, without veering off direction, you will move straight to the goal.
->
->Keep your mind on the great and splendid things you would like to do, and then, as the days go gliding by, you will find yourself unconsciously seizing upon the opportunities that are required for the fulfillment of your desire, just as the coral insect takes from the running tide the elements that it needs. Picture in your mind the able, earnest, useful person you desire to be, and the thought you hold is hourly transforming you into that particular individual...
->
->Thought is supreme. Preserve a right mental attitude — the attitude of courage, frankness, and good cheer. To think rightly is to create. All things come through desire and every sincere prayer is answered. We become like that on which our hearts are fixed. Carry your chin in and the crown of your head high. We are gods in the chrysalis."
->
->  *― Elbert Hubbard*
