@@ -17,7 +17,7 @@ a chronological stream of quotes, excerpts, or snippets that have proved to be p
 
 >There used to be times when a computer helped a writer. Provided simple tools to focus on composition. Enough screen area to frame a thought. An unsophisticated medium to save a piece of work -- a piece of work worth saving.
 >
->More importantly, it would not distract. It would sit quietly waiting for letters to be typed or editing commands to be issued. Unaware that it was a virtue rather than a disadvantage, the computer did not offer any means to switch to another task, look up the current word in a thesaurus, make the sentence bold, or italic, or purple on red background. Or to catch up with the news, to like a photo which had just popped up, to get burried in tweets, to hate a hater and to love a meme, to multitask or fork, let the mind wander away, caffeinate the thought that had been, but no longer was.
+>More importantly, it would not distract. It would sit quietly waiting for letters to be typed or editing commands to be issued. Unaware that it was a virtue rather than a disadvantage, the computer did not offer any means to switch to another task, look up the current word in a thesaurus, make the sentence bold, or italic, or purple on red background. Or to catch up with the news, to like a photo which had just popped up, to get buried in tweets, to hate a hater and to love a meme, to multitask or fork, let the mind wander away, caffeinate the thought that had been, but no longer was.
 >
 > *— Unknown*
 
