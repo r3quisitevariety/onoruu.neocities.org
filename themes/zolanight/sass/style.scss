@@ -161,6 +161,43 @@ blockquote {
   background-color: rgba(255, 255, 255, 0.05);
 }
 
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid color-mix(in srgb, var(--fg-color) 18%, transparent);
+  margin: 1.5em 0;
+}
+
+th,
+td {
+  padding: 0.6em 1em;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background-color: rgba(255, 255, 255, 0.08);
+  color: var(--blue-color);
+  border-bottom: 1px solid color-mix(in srgb, var(--fg-color) 24%, transparent);
+}
+
+tbody tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.03);
+}
+
+th + th,
+td + td {
+  border-left: 1px solid color-mix(in srgb, var(--fg-color) 14%, transparent);
+}
+
+tbody td {
+  border-bottom: 1px solid color-mix(in srgb, var(--fg-color) 14%, transparent);
+}
+
+tbody tr:last-child td {
+  border-bottom: 0;
+}
+
 img {
   border: 1px solid var(--magenta-color);
   border-radius: 5px;
