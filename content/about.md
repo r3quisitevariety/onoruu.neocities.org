@@ -19,7 +19,7 @@ I daily drive NixOS and I'm knee-deep into the ecosystem; it's one of my goals t
 
 ---
 
-Here's my current software/hardware/tooling stack:
+my current software/hardware/tooling stack:
 
 | software    | hardware                           | desktop  | cli     | misc        |
 | ----------- | ---------------------------------- | -------- | ------- | ----------- |
@@ -37,4 +37,3 @@ Here's my current software/hardware/tooling stack:
 . . .
 
 You can email me at (x3roo [at] proton.me), and you can find my github [here](https://github.com/r3quisitevariety). Additionally, you can reach out to me on discord @onoruuu. I tend to be more active on discord.
-;
