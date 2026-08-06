@@ -21,17 +21,17 @@ I daily drive NixOS and I'm knee-deep into the ecosystem; it's one of my goals t
 
 my current software/hardware/tooling stack:
 
-| software    | hardware                          | desktop  | cli     | misc        |
-| ----------- | --------------------------------- | -------- | ------- | ----------- |
-| obsidian    | pixel 8 pro w/ grapheneOS         | hyprland | zoxide  | freshrss    |
-| neovim      | acer nitro 5 w/ RTX 4060 16gb ram | noctalia | mpv     | soulseek    |
-| zen-browser | shitty old laptop for homelabbing | foot     | lazygit | copyparty   |
-| opencode    |                                   | rmpc     | yt-dlp  | immich      |
-| syncthing   |                                   | yazi     | fzf     | qbittorrent |
-| termux      |                                   | nautilus | ripgrep | equicord    |
-| keepassxc   |                                   |          | moor    | milanote    |
-| tailscale   |                                   |          | eza     | invidious   |
-| proton-vpn  |                                   |          | fd      | libredirect |
+| software    | hardware                           | desktop  | cli     | misc        |
+| ----------- | ---------------------------------- | -------- | ------- | ----------- |
+| obsidian    | pixel 8 pro w/ grapheneOS          | hyprland | zoxide  | freshrss    |
+| neovim      | acer nitro 5 w/ RTX 4060 16gb ram  | noctalia | mpv     | soulseek    |
+| zen-browser | shitty old laptop for homelabbing  | foot     | lazygit | copyparty   |
+| opencode    | casio f-91w (best watch ever made) | rmpc     | yt-dlp  | immich      |
+| syncthing   | hifi walker h2                     | yazi     | fzf     | qbittorrent |
+| termux      | pentel graphgear 1000              | nautilus | ripgrep | equicord    |
+| keepassxc   | oculus quest 2                     |          | moor    | milanote    |
+| tailscale   |                                    |          | eza     | invidious   |
+| proton-vpn  |                                    |          | fd      | libredirect |
 
 
 . . .
