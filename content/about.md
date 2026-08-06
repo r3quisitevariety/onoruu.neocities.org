@@ -19,7 +19,7 @@ I daily drive NixOS and I'm knee-deep into the ecosystem; it's one of my goals t
 
 ---
 
-my current software/hardware/tooling stack:
+Here's my current software/hardware/tooling stack:
 
 | software    | hardware                           | desktop  | cli     | misc        |
 | ----------- | ---------------------------------- | -------- | ------- | ----------- |
