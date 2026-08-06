@@ -8,6 +8,7 @@ looking for nixos inspo? check out these dotfiles made by amazing people <3
 - [hand7s](https://github.com/s0me1newithhand7s/reNixos) — 1000 line flake.nix, absolutely batshit crazy
 - [sam](https://github.com/samiser/nix-configs) — *alot* of hosts, agenix
 - [iynaix](https://github.com/iynaix/dotfiles) — preservation, zfs, multi-host
+- [nimeses](https://github.com/N1meses/nixconfig) — finix, flakeless, tack, hjem
 - [stella](https://github.com/iStellanova/Stellyrland/tree/main) — multi-host, preservation, chaotic-nyx, *alot* of modifications
 - [onoruu](https://github.com/r3quisitevariety/nixos-dotfiles) — (mine!) basic flakes & hm, nix-secrets
 - [stalkingwolf](https://github.com/Stalkingwolf23-glitch/nixos-dotfiles) — gay
