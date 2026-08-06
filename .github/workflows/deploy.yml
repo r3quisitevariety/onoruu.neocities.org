@@ -1,6 +1,6 @@
 name: Deploy to Neocities
 
-on:
+"on":
   push:
     branches:
       - main
