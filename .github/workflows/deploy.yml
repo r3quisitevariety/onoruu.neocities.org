@@ -20,7 +20,7 @@ jobs:
       - name: Install Zola
         uses: taiki-e/install-action@v2
         with:
-          tool: zola@latest
+          tool: zola@0.22.1
 
       - name: Build
         run: zola build
