@@ -4,8 +4,8 @@ title = "cool links"
 
 looking for nixos inspo? check out these dotfiles made by amazing people <3 
 - [angie](https://github.com/AngieAlter/nixos) — mogs EVERYONE's config here
-- [pengo](https://forge.pengo.uk/pengo/nixos) — absolutely based and flakeless
-- [hand7s](https://github.com/s0me1newithhand7s/reNixos) — 1000 line flake.nix, absolutely batshit crazy
+- [pengo](https://forge.pengo.uk/pengo/nixos) — based and flakeless
+- [hand7s](https://github.com/s0me1newithhand7s/reNixos) — 1000 line flake.nix
 - [sam](https://github.com/samiser/nix-configs) — *alot* of hosts, agenix
 - [iynaix](https://github.com/iynaix/dotfiles) — preservation, zfs, multi-host
 - [nimeses](https://github.com/N1meses/nixconfig) — finix, flakeless, tack, hjem
@@ -18,6 +18,6 @@ looking for nixos inspo? check out these dotfiles made by amazing people <3
 
 
 
-we have a ***vibrant*** #nixos channel @[discord.gg/noctalia](https://discord.gg/qETUjxA3Am); — if you want to dicuss anything nix-related, we have *lots* of passionate, sometimes ***too*** passionate, eclectic circle of people willing to help you out!
+we have a ***vibrant*** #nixos channel @[discord.gg/noctalia](https://discord.gg/qETUjxA3Am); — if you want to dicuss anything nix-related, we have a passionate, sometimes ***too*** passionate, eclectic circle of people willing to help you out!
 
 
