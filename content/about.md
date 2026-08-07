@@ -24,12 +24,12 @@ my current software/hardware/tooling stack:
 | software    | hardware                           | desktop  | cli     | misc        |
 | ----------- | ---------------------------------- | -------- | ------- | ----------- |
 | obsidian    | pixel 8 pro w/ grapheneOS          | hyprland | zoxide  | freshrss    |
-| neovim      | acer nitro 5 w/ RTX 4060 16gb ram  | noctalia | mpv     | soulseek    |
+| neovim      | acer nitro 5 w/ RTX 4060 16gb ram  | noctalia | tmux    | soulseek    |
 | zen-browser | shitty old laptop for homelabbing  | foot     | lazygit | copyparty   |
 | opencode    | casio f-91w (best watch ever made) | rmpc     | yt-dlp  | immich      |
 | syncthing   | hifi walker h2                     | yazi     | fzf     | qbittorrent |
 | termux      | pentel graphgear 1000              | nautilus | ripgrep | equicord    |
-| keepassxc   | oculus quest 2                     |          | moor    | milanote    |
+| keepassxc   | oculus quest 2                     | mpv      | moor    | milanote    |
 | tailscale   |                                    |          | eza     | invidious   |
 | proton-vpn  |                                    |          | fd      | libredirect |
 
