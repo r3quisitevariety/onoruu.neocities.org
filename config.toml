@@ -1,7 +1,9 @@
 # The URL the site will be built for
 base_url = "https://onoruu.neocities.org"
 
-theme = "zolanight"
+theme = "anemone"
+title = "onoruu"
+description = "onoruu's personal website"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
@@ -9,6 +11,7 @@ compile_sass = true
 build_search_index = true
 
 # Whether to generate feeds. Filenames are set via `feed_filenames` (built-in templates exist for `atom.xml` and `rss.xml`).
+# generates an rss.xml at the root of the site
 generate_feeds = true
 feed_filenames = ["rss.xml"]
 
@@ -19,3 +22,12 @@ feed_filenames = ["rss.xml"]
 
 #[extra.zolanight]
 #theme = "anemone-dark"
+
+[extra]
+header_nav = [
+  # "url" specifies root of content/ - "name_en" is arbitrary
+  { url = "/", name_en = "/home/" },
+  { url = "/blog/", name_en = "/blog/" },
+  { url = "/links/", name_en = "/links/" },
+  { url = "/about/", name_en = "/about/" },
+]

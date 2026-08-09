@@ -1,0 +1,30 @@
+/* Keep tables readable without the default alternating highlight. */
+table th,
+table tr:nth-child(2n) {
+  background-color: var(--bg);
+}
+
+blockquote {
+  padding-block: 0;
+  padding-inline-start: 1.5rem;
+  border-inline-start-width: 2px;
+}
+
+/* Keep the site dark and remove Anemone's theme toggle. */
+.theme-toggle {
+  display: none;
+}
+:root,
+html[data-theme="light"],
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #222529;
+  --bg-light: #464949;
+  --text: #d6d6d6;
+  --text-light: #dbd5bc;
+  --border: #78b6ad;
+  --link: #e2aea2;
+  --accent: #78b6ad;
+  --accent-light: #87c9e5;
+  --accent-text: var(--bg);
+}
