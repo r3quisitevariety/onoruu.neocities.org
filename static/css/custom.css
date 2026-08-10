@@ -4,13 +4,23 @@ table tr:nth-child(2n) {
   background-color: var(--bg);
 }
 
+/* removes shit blockquotes from anemone */
 blockquote {
   padding-block: 0;
   padding-inline-start: 1.5rem;
   border-inline-start-width: 2px;
 }
 
-/* Keep the site dark and remove Anemone's theme toggle. */
+/* removes shit image formatting from anemone */
+img {
+  height: auto;
+  max-width: none;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+}
+
+/* Keep the site dark and remove anemones them toggle. */
 .theme-toggle {
   display: none;
 }
