@@ -20,7 +20,18 @@ img {
   border-radius: 0;
 }
 
-/* Keep the site dark and remove anemones them toggle. */
+/* centers the contents in the footer */
+#footer-container {
+  justify-content: center;
+  text-align: center;
+}
+#footer-container nav {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+/* Keep the site dark and remove anemones theme toggle */
 .theme-toggle {
   display: none;
 }
