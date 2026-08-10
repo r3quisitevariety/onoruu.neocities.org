@@ -11,7 +11,7 @@ looking for nixos inspo? check out these dotfiles made by amazing people <3
 - [nimeses](https://github.com/N1meses/nixconfig) — finix, flakeless, tack, hjem
 - [stella](https://github.com/iStellanova/Stellyrland/tree/main) — multi-host, preservation, chaotic-nyx, *alot* of modifications
 - [grey](https://github.com/greyxp1/nixconf) — custom helium-browser flake, preservation, tack
-- [onoruu](https://github.com/r3quisitevariety/nixos-dotfiles) — (mine!) basic flakes & hm, nix-secrets
+- [onoruu](https://github.com/r3quisitevariety/nixos-dotfiles) — (mine!) flakes, hm, tack, nix-secrets
 - [stalkingwolf](https://github.com/Stalkingwolf23-glitch/nixos-dotfiles) — gay
 - [aria](https://codeberg.org/princearia/nixos) — tack, lix, flake-parts, sops
 - [engliz](https://github.com/TotalyEnglizLitrate/nix-config/tree/master) — typed host definition, modular
