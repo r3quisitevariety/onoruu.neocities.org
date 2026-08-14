@@ -11,6 +11,7 @@ looking for nixos inspo? check out these dotfiles made by amazing people <3
 - [nimeses](https://github.com/N1meses/nixconfig) — finix, flakeless, tack, hjem
 - [stella](https://github.com/iStellanova/Stellyrland/tree/main) — multi-host, preservation, chaotic-nyx, *alot* of modifications
 - [grey](https://github.com/greyxp1/nixconf) — custom helium-browser flake, preservation, tack
+- [dish](https://git.vulpe.systems/vulpe-systems/nix) — production-grade, multi-user shared config
 - [onoruu](https://github.com/r3quisitevariety/nixos-dotfiles) — (mine!) flakes, hm, tack, nix-secrets
 - [mischa](https://github.com/M1scha03/nixos-dotfiles/tree/main) — minimal + based
 - [lysec](https://github.com/Ly-sec/nixos) — john noctalia himself
