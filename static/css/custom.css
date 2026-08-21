@@ -7,8 +7,8 @@ table tr:nth-child(2n) {
 /* removes shit blockquotes from anemone */
 blockquote {
   padding-block: 0;
-  padding-inline-start: 1.5rem;
-  border-inline-start-width: 2px;
+  padding-inline-start: 1rem;
+  border-inline-start-width: 1px;
 }
 
 /* removes shit image formatting from anemone */

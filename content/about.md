@@ -23,12 +23,12 @@ my current software/hardware/tooling stack:
 
 | software    | hardware                       | desktop  | cli      | misc        |
 | ----------- | ------------------------------ | -------- | -------- | ----------- |
-| obsidian    | pixel 8 pro w/ grapheneOS      | hyprland | zoxide   | freshrss    |
-| neovim      | acer nitro 5 RTX 4060 16gb ram | niri     | tmux     | soulseek    |
+| obsidian    | pixel 8 pro w/ grapheneOS      | niri     | zoxide   | freshrss    |
+| neovim      | acer nitro 5 RTX 4060 16gb ram | hyprland | tmux     | soulseek    |
 | zen-browser | shitty old laptop (homelab)    | noctalia | lazygit  | copyparty   |
 | opencode    | casio f-91w                    | foot     | starship | immich      |
 | syncthing   | hifi walker h2                 | rmpc     | fzf      | qbittorrent |
-| termux      | pentel graphgear 1000          | yazi     | ripgrep  | equicord    |
+| termux      | pentel graphgear 1000          | yazi     | ripgrep  | vesktop     |
 | keepassxc   | oculus quest 2                 | nautilus | moor     | milanote    |
 | tailscale   |                                | mpv      | eza      | invidious   |
 | proton-vpn  |                                | yt-dlp   | fd       | libredirect |
