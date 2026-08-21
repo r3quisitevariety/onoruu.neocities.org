@@ -4,7 +4,7 @@ title = "cool links"
 
 looking for nixos inspo? check out these dotfiles made by amazing people <3 
 - [angie](https://github.com/AngieAlter/nixos) — mogs EVERYONE's config here
-- [pengo](https://forge.pengo.uk/pengo/nixos) — based and flakeless
+- [pengo](https://forge.pengo.uk/pengo/nixos) — based, flakeless, manifesto in readme, adios-wrappers, hjem
 - [hand7s](https://github.com/s0me1newithhand7s/reNixos) — nixos + finix, multi-host w/ easy-hosts, flake-parts, hardened
 - [sam](https://github.com/samiser/nix-configs) — multi-host, agenix, darwin
 - [iynaix](https://github.com/iynaix/dotfiles) — preservation, zfs, multi-host
