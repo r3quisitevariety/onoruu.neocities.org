@@ -1,6 +1,6 @@
 +++
 title = "on software choice"
-date = 2026-05-27
+date = 2026-08-21
 +++
 
 In answer to the question "What [music] software do you use?", Lena Raine responded saying:

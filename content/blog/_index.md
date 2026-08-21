@@ -1,5 +1,6 @@
 +++
 title = "posts"
 sort_by = "date"
+generate_feeds = true
 +++
-work in progress :3
+[rss](/blog/rss.xml)
