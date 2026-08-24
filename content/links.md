@@ -29,5 +29,5 @@ we have a ***vibrant*** #nixos channel @[discord.gg/noctalia](https://discord.gg
 
 additionally, here are some links to people's personal websites that I find cool:
 - [ari.lt](https://ari.lt/)
-- [seafom palace](https://laguna-dream.github.io/index.html)
+- [seafoam palace](https://laguna-dream.github.io/index.html)
 - [saddleblasters](https://saddleblasters.neocities.org)
