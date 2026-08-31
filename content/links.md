@@ -19,7 +19,7 @@ looking for nixos inspo? check out these dotfiles made by amazing people <3
 - [aria](https://codeberg.org/princearia/nixos) — tack, lix, flake-parts, sops
 - [engliz](https://github.com/TotalyEnglizLitrate/nix-config/tree/master) — typed host definition, modular
 - [lucasoe](https://github.com/LucasOe/nixos-config) — import-tree, option declarations, opinionated imperative state
-- [elias](https://github.com/eljangus/nixos) — gay
+- [elias](https://codeberg.org/eljangus/nixos) — gay
 
 
 
