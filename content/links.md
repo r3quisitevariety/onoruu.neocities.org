@@ -26,8 +26,3 @@ looking for nixos inspo? check out these dotfiles made by amazing people <3
 we have a ***vibrant*** #nixos channel @[discord.gg/noctalia](https://discord.gg/qETUjxA3Am); — if you want to dicuss anything nix-related, we have a passionate, sometimes ***too*** passionate, eclectic circle of people willing to help you out!
 
 . . .
-
-additionally, here are some links to people's personal websites that I find cool:
-- [ari.lt](https://ari.lt/)
-- [seafoam palace](https://laguna-dream.github.io/index.html)
-- [saddleblasters](https://saddleblasters.neocities.org)
