@@ -37,3 +37,5 @@ my current software/hardware/tooling stack:
 . . .
 
 You can email me at (x3roo [at] proton.me), and you can find my github [here](https://github.com/r3quisitevariety). Additionally, you can reach out to me on discord @onoruuu. I tend to be more active on discord.
+
+none of my writing is llm-assisted.
