@@ -25,6 +25,6 @@ looking for nixos inspo? check out these dotfiles made by amazing people <3
 
 we have a ***vibrant*** #nixos channel @[discord.gg/noctalia](https://discord.gg/qETUjxA3Am); — if you want to dicuss anything nix-related, we have a passionate, sometimes ***too*** passionate, eclectic circle of people willing to help you out!
 
-we also have a [github org](https://github.com/bunny-systems) where we (try to) make cool software in the Nix/NixOS space :D
+we also have a [github org](https://github.com/bunny-systems) where we make cool software in the Nix/NixOS space :D
 
 . . .
