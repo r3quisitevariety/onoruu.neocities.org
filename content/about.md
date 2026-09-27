@@ -24,14 +24,14 @@ my current software/hardware/tooling stack:
 | software    | hardware                       | desktop  | cli      | misc        |
 | ----------- | ------------------------------ | -------- | -------- | ----------- |
 | obsidian    | pixel 8 pro w/ grapheneOS      | niri     | zoxide   | freshrss    |
-| neovim      | acer nitro 5 RTX 4060 16gb ram | hyprland | tmux     | soulseek    |
-| zen-browser | shitty old laptop (homelab)    | noctalia | lazygit  | copyparty   |
-| symfonium   | casio f-91w                    | kitty    | starship | immich      |
-| syncthing   | hifi walker h2                 | rmpc     | fzf      | qbittorrent |
-| termux      | pentel graphgear 1000          | yazi     | ripgrep  | vesktop     |
-| keepassxc   | oculus quest 2                 | nautilus | moor     | milanote    |
-| tailscale   |                                | mpv      | eza      | invidious   |
-| proton-vpn  |                                | yt-dlp   | fd       | libredirect |
+| neovim      | acer nitro 5 RTX 4060 16gb ram | noctalia | tmux     | soulseek    |
+| zen-browser | shitty old laptop (homelab)    | kitty    | lazygit  | copyparty   |
+| symfonium   | casio f-91w                    | rmpc     | starship | immich      |
+| syncthing   | hifi walker h2                 | yazi     | fzf      | qbittorrent |
+| termux      | pentel graphgear 1000          | nautilus | ripgrep  | vesktop     |
+| keepassxc   | oculus quest 2                 | mpv      | moor     | milanote    |
+| tailscale   |                                | yt-dlp   | eza      | bitwig      |
+| proton-vpn  |                                |          | fd       | libredirect |
 
 
 . . .
