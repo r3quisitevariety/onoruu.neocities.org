@@ -4,4 +4,4 @@ set -euo pipefail
 zola check --skip-external-links
 rm -rf public
 zola build
-neocities push public
+neocities push --prune public
