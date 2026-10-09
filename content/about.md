@@ -23,7 +23,7 @@ my current software/hardware/tooling stack:
 
 | software    | hardware                       | desktop  | cli      | misc        |
 | ----------- | ------------------------------ | -------- | -------- | ----------- |
-| obsidian    | pixel 8 pro w/ grapheneOS      | niri     | zoxide   | freshrss    |
+| zed         | pixel 8 pro w/ grapheneOS      | niri     | zoxide   | freshrss    |
 | neovim      | acer nitro 5 RTX 4060 16gb ram | noctalia | tmux     | soulseek    |
 | zen-browser | shitty old laptop (homelab)    | kitty    | lazygit  | copyparty   |
 | symfonium   | casio f-91w                    | rmpc     | starship | immich      |
@@ -31,7 +31,8 @@ my current software/hardware/tooling stack:
 | termux      | pentel graphgear 1000          | nautilus | ripgrep  | vesktop     |
 | keepassxc   | oculus quest 2                 | mpv      | moor     | milanote    |
 | tailscale   |                                | yt-dlp   | eza      | bitwig      |
-| proton-vpn  |                                |          | fd       | libredirect |
+| proton-vpn  |                                | sonora   | fd       | libredirect |
+| obsidian    |                                |          |          |             |
 
 
 . . .
