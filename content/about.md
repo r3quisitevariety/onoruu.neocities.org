@@ -4,16 +4,17 @@ title = "about me"
 
 Hey there, I'm onoruu :)
 
-I'm a writer, sometimes musician, and I love open source. 
+I'm a writer, sometimes musician, and I love open source.
 
 Here's a list of topics that interest me, which you'll probably see me writing about:
-- ***philosophy***
-- ***minimalism***
-- ***software***
-- ***internet & technology***
-- ***artistry & creativity***
-- ***stories, poetry, writing***
-- ***systems thinking***
+
+- _**philosophy**_
+- _**minimalism**_
+- _**software**_
+- _**internet & technology**_
+- _**artistry & creativity**_
+- _**stories, poetry, writing**_
+- _**systems thinking**_
 
 I daily drive NixOS and I'm knee-deep into the ecosystem; it's one of my goals to master nix.
 
@@ -34,9 +35,8 @@ my current software/hardware/tooling stack:
 | proton-vpn  |                                | sonora   | fd       | libredirect |
 | obsidian    |                                |          |          |             |
 
-
 . . .
 
-You can email me at (x3roo [at] proton.me), and you can find my github [here](https://github.com/r3quisitevariety). Additionally, you can reach out to me on discord @onoruuu. I tend to be more active on discord.
+You can find my github [here](https://github.com/r3quisitevariety). Additionally, you can reach out to me on discord @onoruuu.
 
 none of my writing is llm-assisted.
