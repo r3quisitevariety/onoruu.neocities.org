@@ -7,27 +7,28 @@ this page serves as a list of things that have impacted me in a positive way and
 ### _**>>>jump to section<<<**_
 
 - [personal](#personal)
-- [media/art/works](#media-art-works)
-- [tech/internet](#tech-internet)
-- [nix](#nix)
+- [philosophy stuff](#philosophy-metaphysics-epistemology)
+- [media & art](#media-art)
 - [indie websites](#indie-websites)
+- [tech & internet](#tech-internet)
+- [nix](#nix)
+- [misc resources](#misc-resources)
 - [quotes and snippets](#quotes-and-snippets)
 
-. . .
+...
 
 ### personal
 
-articles/writing:
+prose:
 
 - [You are the Sum](https://dylan.gr/1769763573)
+- [A lunch without alcohol](https://protesilaos.com/commentary/2026-04-12-lunch-without-alcohol/)
+- [About structure, the little things, and critical thinking](https://protesilaos.com/commentary/2026-10-01-structure-little-things-critical-thinking/)
 - [Minimalism as a Method for Reducing Mental Fatigue](https://literaturegirl.neocities.org/articles/minimalismasamethod)
 - [you should meet your online friends irl](https://transkatgirl.github.io/writings/2026/online-to-irl.html)
 - [Style is consistent constraint](https://stephango.com/style)
-- [About structure, the little things, and critical thinking](https://protesilaos.com/commentary/2026-10-01-structure-little-things-critical-thinking/)
-- [Review the media you consume](https://blog.silentvo.id/blog/review-the-media-you-consume/)
 - [night tapes on loner](/assets/iiris-on-loner)
-- [minecraft end poem](/assets/end-poem)
-- [A lunch without alcohol](https://protesilaos.com/commentary/2026-04-12-lunch-without-alcohol/)
+- [porter robinson on get your wish](/assets/gyw.jpg)
 - [Dictionary of Obscure Sorrows Excerpt](/assets/joen-koenig)
 
 videos:
@@ -35,31 +36,76 @@ videos:
 - [The Answer is Not a Hut in the Woods](https://youtu.be/PK2SMIOHYig)
 - [Catastrotivity Parts 1-6](https://youtube.com/playlist?list=PL6haVw-BFETw13kBFhbWl6UCshzgIC7Ea)
 - [How to Fall in Love with Life](https://youtu.be/u31Nk3ZAh-o)
-- [Ego Death & Reality vs Dream](https://youtu.be/YspFR9JAq3w)
 - [Sneako x Dr. K interview](https://youtu.be/0j_V4pQAb9I)
 - [Those Who Curate, and Those Who Consume](https://youtu.be/7kqDCYkF_X0)
-- [a_ weirdo's guide to confidence](https://youtu.be/cyJJE6D5Mr8)
-- [meeting a very inspiring fan of mine in VR](https://youtu.be/pd5eqHrjBxQ)
-- [porter & jamie's advice to aspiring artists](https://youtu.be/Ne3S2W4Up3Q)
 - [why you should have a creative outlet](https://youtu.be/MHuXh2aClOM)
+- [meeting a very inspiring fan of mine in VR](https://youtu.be/pd5eqHrjBxQ)
+- [a_ weirdo's guide to confidence](https://youtu.be/cyJJE6D5Mr8)
+- [The plague of social media is passiveness](https://youtu.be/CRSjRoK94-4)
+- [porter & jamie's advice to aspiring artists](https://youtu.be/Ne3S2W4Up3Q)
 
-### media/art/works
+...
+
+### philosophy, metaphysics, epistemology
 
 - [The Egg - A Short Story](https://youtu.be/h6fcK_fRYaI)
-- [nurture](https://rateyourmusic.com/release/album/porter-robinson/nurture/) by porter robinson
-- [smile](https://rateyourmusic.com/release/album/porter-robinson/smile-d/) by porter robinson
-- [the new sound](https://geordiegreep.bandcamp.com/album/the-new-sound) by geordie greep
-- [masterplan](https://www.youtube.com/watch?v=nCiJ8MMQCxM) by night tapes (+ all of portals // polarities)
-- [girls last tour](https://youtu.be/ndIyLnJtp54?list=PLsojYVZoph-ZwJQoo9X4GylvDjO7XTL8_) (show + ost)
-- [Z.A.T.O // I Love the World & Everything in It](https://nopanamaman.itch.io/z-a-t-o-i-love-the-world-and-everything-in-it)
-- [septabee](https://youtu.be/lW8Z98pXuSE?t=101) <-- best piece of software ever created
-- [The Alchemist (book)](https://oceanofpdf.com/authors/paulo-coelho/pdf-epub-the-alchemist-download/)
+- [Ego Death & Reality vs Dream](https://youtu.be/YspFR9JAq3w)
+- [minecraft end poem](/assets/end-poem)
 
-### tech/internet
+...
+
+### media // art
+
+music:
+
+- [nurture](https://youtu.be/Tp50mEzhFTo?list=OLAK5uy_mypFPZxo6owES5p4fN4Ikp12CqGR0STMg)
+- [smile](https://youtu.be/lzMkFIw8ETM?list=OLAK5uy_nHASFbKtwtHxsPgXDTBSmzZ-DOgOlaBCI)
+- [the new sound](https://geordiegreep.bandcamp.com/album/the-new-sound)
+- [portals // polarities](https://youtu.be/rgyUUeUE10Q?list=OLAK5uy_kAR22rommCkUyMBLF2TCb-ZRAR-jeVdqM)
+
+shows/movies:
+
+- [girls last tour](https://en.wikipedia.org/wiki/Girls'_Last_Tour)
+- [made in abyss](https://en.wikipedia.org/wiki/Made_in_Abyss)
+
+games:
+
+- [Z.A.T.O // I Love the World & Everything in It](https://nopanamaman.itch.io/z-a-t-o-i-love-the-world-and-everything-in-it)
+- [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/)
+
+misc:
+
+- [septabee](https://youtu.be/lW8Z98pXuSE?t=101) <-- best piece of software ever created
+
+...
+
+### indie websites
+
+sites i've come across:
+
+- [literaturegirl](https://literaturegirl.neocities.org)
+- [protesilaos](https://protesilaos.com)
+- [d-rens](https://d-rens.xyz)
+- [dylan araps](https://dylan.gr)
+- [george hotz](https://geohot.github.io/blog)
+- [transkatgirl](https://transkatgirl.github.io)
+
+mutuals/friends:
+
+- [pengo](https://pengo.uk)
+- [samiser](https://samiser.xyz)
+- [dotto](https://erikz.xyz)
+- [lucasoe](https://lucasoe.com/)
+- [dotto](https://erikz.xyz/)
+
+...
+
+### tech // internet
 
 - [How can I get people to visit my website or optimise "SEO"?](https://ari.lt/faq#eb22cfb615c6e5170d11)
 - [What goes into my writing?](https://cadence.moe/blog/2022-02-08-what-goes-into-my-writing)
 - [Different People Type Differently](https://orangc.net/notes/typing-styles)
+- [Review the media you consume](https://blog.silentvo.id/blog/review-the-media-you-consume/)
 - [little efforts that make life easier, eventually](https://d-rens.xyz/blog/little-efforts-that-make-life-easier/)
 - [good design is as little as possible](https://motherfuckingwebsite.com/)
 - [Every minute you aren't running 69 agents, you are falling behind](https://geohot.github.io/blog/jekyll/update/2026/03/11/running-69-agents.html)
@@ -73,6 +119,8 @@ videos:
 - [How to search the internet efficiently](https://blog.silentvo.id/blog/how-to-search-the-internet-efficiently/)
 - [Ascetic Computing](https://ratfactor.com/ascetic-computing)
 - [Human Routers of Machine Words](https://borretti.me/article/human-routers-of-machine-words)
+
+...
 
 ### nix
 
@@ -98,16 +146,14 @@ looking for nixos inspo? check out these dotfiles made by amazing people <3
 
 we also have a [github org](https://github.com/bunny-systems) where we make cool software in the Nix/NixOS space :D
 
-### indie websites
+...
 
-- [literaturegirl](https://literaturegirl.neocities.org)
-- [d-rens](https://d-rens.xyz)
-- [dylan araps](https://dylan.gr)
-- [protesilaos](https://protesilaos.com)
-- [george hotz](https://geohot.github.io/blog)
-- [transkatgirl](https://transkatgirl.github.io)
+### misc resources
 
-. . .
+- [nixmap](https://vimjoyer.com/nixmap)
+- [fmhy](https://fmhy.net)
+
+...
 
 ### quotes and snippets
 
@@ -175,3 +221,5 @@ we also have a [github org](https://github.com/bunny-systems) where we make cool
 > — Miffle, from "goodbye, world!"
 
 &nbsp; . . .
+
+[^^back to top^^](#jump-to-section)
