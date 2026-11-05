@@ -62,11 +62,13 @@ music:
 - [smile](https://youtu.be/lzMkFIw8ETM?list=OLAK5uy_nHASFbKtwtHxsPgXDTBSmzZ-DOgOlaBCI)
 - [the new sound](https://geordiegreep.bandcamp.com/album/the-new-sound)
 - [portals // polarities](https://youtu.be/rgyUUeUE10Q?list=OLAK5uy_kAR22rommCkUyMBLF2TCb-ZRAR-jeVdqM)
+- [the first glass beach album](https://glassbeach.bandcamp.com/album/the-first-glass-beach-album)
 
 shows/movies:
 
 - [girls last tour](https://en.wikipedia.org/wiki/Girls'_Last_Tour)
-- [made in abyss](https://en.wikipedia.org/wiki/Made_in_Abyss)
+- [into the wild](https://en.wikipedia.org/wiki/Into_the_Wild_(film))
+
 
 games:
 
@@ -152,6 +154,7 @@ we also have a [github org](https://github.com/bunny-systems) where we make cool
 
 - [nixmap](https://vimjoyer.com/nixmap)
 - [fmhy](https://fmhy.net)
+- [nicotine++](https://nicotine-plus.org/) 
 
 ...
 
