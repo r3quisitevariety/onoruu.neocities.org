@@ -156,6 +156,10 @@ we also have a [github org](https://github.com/bunny-systems) where we make cool
 - [fmhy](https://fmhy.net)
 - [nicotine++](https://nicotine-plus.org/) 
 
+lifestyle/fitness:
+- [shai](https://www.youtube.com/@shystillsleepy/videos)
+- [k boges](https://www.youtube.com/@Kboges/videos)
+
 ...
 
 ### quotes and snippets
