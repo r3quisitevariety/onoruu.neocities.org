@@ -60,20 +60,30 @@ music:
 
 - [nurture](https://youtu.be/Tp50mEzhFTo?list=OLAK5uy_mypFPZxo6owES5p4fN4Ikp12CqGR0STMg)
 - [smile](https://youtu.be/lzMkFIw8ETM?list=OLAK5uy_nHASFbKtwtHxsPgXDTBSmzZ-DOgOlaBCI)
-- [the new sound](https://geordiegreep.bandcamp.com/album/the-new-sound)
-- [portals // polarities](https://youtu.be/rgyUUeUE10Q?list=OLAK5uy_kAR22rommCkUyMBLF2TCb-ZRAR-jeVdqM)
+- [constant companions](https://jamiepaige.bandcamp.com/album/constant-companions-deluxe-edition)
 - [the first glass beach album](https://glassbeach.bandcamp.com/album/the-first-glass-beach-album)
+- [shion](https://music.youtube.com/playlist?list=OLAK5uy_kYD8EgfkuSvCoiSprf_KjFe6qMlAIvsbk)
 
 shows/movies:
 
 - [girls last tour](https://en.wikipedia.org/wiki/Girls'_Last_Tour)
+- [arcane](https://en.wikipedia.org/wiki/Arcane_(TV_series))
+- [a silent voice](https://en.wikipedia.org/wiki/A_Silent_Voice_(film))
 - [into the wild](https://en.wikipedia.org/wiki/Into_the_Wild_(film))
+- [vivy: flourite eye's song](https://en.wikipedia.org/wiki/Vivy:_Fluorite_Eye's_Song)
+- [86 // eighty six](https://en.wikipedia.org/wiki/86_(novel_series))
 
 
 games:
 
 - [Z.A.T.O // I Love the World & Everything in It](https://nopanamaman.itch.io/z-a-t-o-i-love-the-world-and-everything-in-it)
 - [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/)
+- [katawa shoujo](https://store.steampowered.com/app/3068300/Katawa_Shoujo/)
+- [saya no uta // song of saya](https://store.steampowered.com/app/702050/The_Song_of_Saya/)
+
+books/writing:
+- [the alchemist by paulo coelho](https://oceanofpdf.com/authors/paulo-coelho/pdf-epub-the-alchemist-download/)
+- [tao te ching (sam torode's translation)](https://archive.org/details/taotechingbookof0000laoz/page/n1/mode/2up)
 
 misc:
 
@@ -206,6 +216,19 @@ lifestyle/fitness:
 
 &nbsp; . . .
 
+> "if you ask the grass, the zebra is the monster and the lion is the protector."
+>
+> — African Proverb
+
+&nbsp; . . .
+
+> "They don't build statues out of critics."
+
+&nbsp; . . .
+
+> "Thinking black and white thinking is black and white is black and white thinking."
+
+&nbsp; . . .
 > “Dude, i don’t care if it’s porn, furry art, rap music, or movies you wanna make. People are gonna shit on you for everything you do or don’t however they can. Whether it’s belittling your beliefs in yourself that you can make this work and live off what you love doing or just wanting to be an asshole. Most people, especially old farts who try and shit on my generation, are used to being cogs in a machine that gets them money cuz making art is ‘toO hArD tO LiVe oFf oF’. Don’t take career advice from anyone who hasn’t been in your shoes. Why would you take advice from someone who’s never been interested in what you do? Or people that want to see you fail? I don’t wanna see you fail. So if you have nobody telling you to take that leap of faith whenever you have the opportunity, i am. That’s what ‘ISSBROKIE!’ represents. ‘ISSBROKIE!’ is an attitude, Not a character. It’s the ability to tell someone ‘fuck you. i’m gonna do it anyway cuz i’m based and have a fat ass, you old fart. Get back in your cubicle and let my generation shine brighter than yours.’”
 >
 > — ISSBROKIE!, Steph Monroe, the cutie.
