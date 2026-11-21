@@ -101,6 +101,8 @@ sites i've come across:
 - [dylan araps](https://dylan.gr)
 - [george hotz](https://geohot.github.io/blog)
 - [transkatgirl](https://transkatgirl.github.io)
+- [lyra rebane](https://lyra.horse/)
+
 
 mutuals/friends:
 
