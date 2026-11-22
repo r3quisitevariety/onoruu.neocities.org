@@ -110,7 +110,6 @@ mutuals/friends:
 - [samiser](https://samiser.xyz)
 - [dotto](https://erikz.xyz)
 - [lucasoe](https://lucasoe.com/)
-- [dotto](https://erikz.xyz/)
 
 ...
 
