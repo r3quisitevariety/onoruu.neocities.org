@@ -85,10 +85,6 @@ books/writing:
 - [the alchemist by paulo coelho](https://oceanofpdf.com/authors/paulo-coelho/pdf-epub-the-alchemist-download/)
 - [tao te ching (sam torode's translation)](https://archive.org/details/taotechingbookof0000laoz/page/n1/mode/2up)
 
-misc:
-
-- [septabee](https://youtu.be/lW8Z98pXuSE?t=101) <-- best piece of software ever created
-
 ...
 
 ### indie websites
@@ -166,6 +162,9 @@ we also have a [github org](https://github.com/bunny-systems) where we make cool
 - [nixmap](https://vimjoyer.com/nixmap)
 - [fmhy](https://fmhy.net)
 - [nicotine++](https://nicotine-plus.org/) 
+- [septabee](https://youtu.be/lW8Z98pXuSE?t=101) <-- best piece of software ever created
+- [kinopio](https://kinopio.club)
+
 
 lifestyle/fitness:
 - [shai](https://www.youtube.com/@shystillsleepy/videos)
