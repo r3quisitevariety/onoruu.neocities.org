@@ -163,7 +163,8 @@ we also have a [github org](https://github.com/bunny-systems) where we make cool
 - [fmhy](https://fmhy.net)
 - [nicotine++](https://nicotine-plus.org/) 
 - [septabee](https://youtu.be/lW8Z98pXuSE?t=101) <-- best piece of software ever created
-- [kinopio](https://kinopio.club)
+- [kinopio](https://kinopio.club)  
+- [are.na](https://are.na) <-- pinterest but with humans instead of algorithms
 
 
 lifestyle/fitness:
